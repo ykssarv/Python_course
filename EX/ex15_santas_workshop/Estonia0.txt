@@ -1,0 +1,41 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Estonia
+
+//===========[]===================================================================[]==================\\
+||   Name    ||                               Gifts                               || Total Weight(kg) ||
+|[===========[]===================================================================[]==================]|
+|| Marisol   || Magic: The Gathering Commander Legends booster box                ||              0.9 ||
+|| Jenson    || Toy train set, Jaipur board game, Acrylic paint brush set         ||             1.59 ||
+|| Rhys      || Crayons                                                           ||             0.05 ||
+|| Kai       || Small watering can                                                ||             0.54 ||
+|| Dayton    || Indoor bowling set, Wireless headphones                           ||             4.04 ||
+|| Ewan      || Pink fluffy pen, Avocado, Car carpet                              ||             1.63 ||
+|| Nathan    || Ballet shoes, Ken doll with real hair, Beyblade Burst spinner     ||              0.5 ||
+|| Declan    || Wireless headphones, Toy train set, Baby Yoda plushie             ||             1.63 ||
+|| Patrick   || Nintendo Switch, Running shoes, Pink tricycle                     ||             6.19 ||
+|| Atticus   || Toy dinosaur play set, Brunette Barbie doll, Nerf rifle           ||              0.5 ||
+|| Lacey     || Mermaid barbie                                                    ||             0.05 ||
+|| Ariana    || Roller skates                                                     ||             1.67 ||
+|| Paisley   || Toy truck                                                         ||              0.3 ||
+|| Nadia     || Pink tricycle                                                     ||              5.4 ||
+|| Matteo    || Color pencil set, Polyhedral dice set                             ||             0.11 ||
+|| Jesse     || Avocado, Baby born doll, Indoor bowling set                       ||             4.47 ||
+|| Zach      || Raspberry Pi 4, Indoor bowling set                                ||              3.6 ||
+|| Ada       || Lego Grogu, Toy truck                                             ||             0.55 ||
+|| Jeff      || Avocado, Jaipur board game                                        ||             0.57 ||
+|| Seth      || World of Warcraft: Shadowlands Collectors Edition                 ||              0.3 ||
+|| Margarita || PlayStation 5, Piggy bank, Jaipur board game                      ||              5.8 ||
+|| Naomi     || World of Warcraft: Shadowlands Collectors Edition, Football shoes ||             0.99 ||
+|| Ruth      || Nintendo Switch, Avocado                                          ||             0.27 ||
+|| Timothy   || Doll stroller, VHS player                                         ||              3.3 ||
+|| Jasmin    || 500 TikTok followers                                              ||              0.0 ||
+|| Zoe       || Baby born doll, Lego death star                                   ||              2.9 ||
+|| Matilda   || Harry Potter and the Philosopher's Stone, Small watering can      ||             0.84 ||
+|| Georgie   || Cyberpunk 2077, Wireless headphones                               ||             0.57 ||
+|| Julie     || Ninja Turtles backpack                                            ||             0.35 ||
+|| Sharon    || Kitten plushie                                                    ||             0.15 ||
+|| Isabel    || Mermaid barbie                                                    ||             0.05 ||
+|| Kyle      || Teddy bear                                                        ||             0.15 ||
+|| Michael   || 500 TikTok followers                                              ||              0.0 ||
+\\===========[]===================================================================[]==================//

@@ -1,0 +1,39 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Sweden
+
+//==========[]========================================================================================================[]==================\\
+||   Name   ||                                                 Gifts                                                  || Total Weight(kg) ||
+|[==========[]========================================================================================================[]==================]|
+|| Jakob    || Frozen Elsa electric toothbrush, Raspberry Pi 4                                                        ||             0.55 ||
+|| Louis    || Football shoes, Tablet computer                                                                        ||             1.12 ||
+|| Spencer  || Remote controlled car, Fortnite t-shirt, Raspberry Pi 4                                                ||              2.3 ||
+|| Ash      || Briefcase of art supplies                                                                              ||              3.2 ||
+|| Rachael  || Clear Night Sky puzzle, Xbox Series X, Doll stroller                                                   ||              8.1 ||
+|| Lorelei  || Raspberry Pi 4, Digital camera                                                                         ||             0.97 ||
+|| Kimberly || Raspberry Pi 4, Wireless headphones                                                                    ||             0.64 ||
+|| Jodie    || LED light up sneakers, Small watering can, 7200 Riot Points gift card                                  ||              0.8 ||
+|| Scott    || Polyhedral dice set                                                                                    ||             0.01 ||
+|| Ellis    || Lego Grogu                                                                                             ||             0.25 ||
+|| Sean     || Unicorn onesie, Pink tricycle, Trick scooter                                                           ||             8.92 ||
+|| Josiah   || Ballet shoes, Princess dress, Crayons                                                                  ||             0.48 ||
+|| Steve    || Polar bear plushie                                                                                     ||              0.2 ||
+|| Victor   || Book about dinosaurs, Remote controlled bb8 droid                                                      ||             1.15 ||
+|| Noah     || Unicorn onesie                                                                                         ||             0.32 ||
+|| Bella    || Baby brother, Princess dress, World of Warcraft: Shadowlands Collectors Edition                        ||              4.0 ||
+|| Polly    || Spiderman costume                                                                                      ||             0.28 ||
+|| Angelika || Remote controlled bb8 droid, Carbon fiber road bike, World of Warcraft: Shadowlands Collectors Edition ||              8.1 ||
+|| Ivy      || Watercolor paint set, LED light up sneakers                                                            ||              0.5 ||
+|| Kian     || Tablet computer                                                                                        ||             0.43 ||
+|| Zack     || Magic: The Gathering Commander Legends booster box                                                     ||              0.9 ||
+|| Russell  || 7200 Riot Points gift card                                                                             ||             0.01 ||
+|| Agnes    || Raspberry Pi 4                                                                                         ||              0.1 ||
+|| ALbert   || Horse riding helmet                                                                                    ||              2.5 ||
+|| Brian    || Small watering can, Skateboard, Swimming flippers                                                      ||             2.89 ||
+|| Vivian   || Pink fluffy pen                                                                                        ||             0.06 ||
+|| Alice    || Nintendo Switch                                                                                        ||              0.2 ||
+|| Stefanie || Toy dinosaur play set, Toy truck                                                                       ||             0.45 ||
+|| Eugene   || Jaipur board game                                                                                      ||              0.5 ||
+|| Gustav   || Crayons                                                                                                ||             0.05 ||
+|| Laurence || Polyhedral dice set                                                                                    ||             0.01 ||
+\\==========[]========================================================================================================[]==================//

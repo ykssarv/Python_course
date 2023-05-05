@@ -1,0 +1,9 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: South Africa
+
+//=======[]===========================[]==================\\
+|| Name  ||           Gifts           || Total Weight(kg) ||
+|[=======[]===========================[]==================]|
+|| Nicky || Briefcase of art supplies ||              3.2 ||
+\\=======[]===========================[]==================//

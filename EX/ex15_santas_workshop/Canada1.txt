@@ -1,0 +1,28 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Canada
+
+//==========[]===============================================================[]==================\\
+||   Name   ||                             Gifts                             || Total Weight(kg) ||
+|[==========[]===============================================================[]==================]|
+|| Martin   || Xbox Series X                                                 ||              4.5 ||
+|| Arthur   || Toy train set                                                 ||             0.89 ||
+|| Sven     || Basketball, Frozen Olaf plush toy                             ||             1.36 ||
+|| Klaus    || Small watering can, Toy kitchen set                           ||             3.04 ||
+|| Lars     || Bluetooth speaker, Digital camera                             ||              2.3 ||
+|| Fern     || Teddy bear                                                    ||             0.15 ||
+|| Daisy    || Car carpet                                                    ||              1.5 ||
+|| Maria    || Harry Potter and the Philosopher's Stone, Wireless headphones ||             0.84 ||
+|| Mimi     || Toy dinosaur play set                                         ||             0.15 ||
+|| Mariam   || Lego death star                                               ||              2.0 ||
+|| Jamie    || Toy train set, Raspberry Pi 4, Trick scooter                  ||             4.19 ||
+|| Edie     || Unicorn onesie, 7200 Riot Points gift card, Swimming flippers ||             1.33 ||
+|| India    || Teddy bear, Trick scooter                                     ||             3.35 ||
+|| Gemma    || Baby Yoda plushie, Acrylic paint brush set, Tablet computer   ||             0.83 ||
+|| Elsie    || Magic: The Gathering Commander Legends booster box            ||              0.9 ||
+|| Edgar    || Football shoes                                                ||             0.69 ||
+|| Aiden    || Football shoes, Acrylic paint brush set                       ||             0.89 ||
+|| Gregory  || Nerf rifle, Crayons, Color pencil set                         ||             0.45 ||
+|| Henry    || Mermaid barbie, Skateboard                                    ||              1.4 ||
+|| Alistair || Spiderman costume                                             ||             0.28 ||
+\\==========[]===============================================================[]==================//

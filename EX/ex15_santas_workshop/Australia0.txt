@@ -1,0 +1,36 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Australia
+
+//============[]=========================================================================================[]==================\\
+||    Name    ||                                          Gifts                                          || Total Weight(kg) ||
+|[============[]=========================================================================================[]==================]|
+|| Ben        || Polar bear plushie                                                                      ||              0.2 ||
+|| Cain       || VHS player, Harry Potter and the Philosopher's Stone                                    ||              1.5 ||
+|| Darius     || Baby born doll, Magic: The Gathering Commander Legends booster box, Horse riding helmet ||              4.3 ||
+|| Scarlett   || Running shoes, Piggy bank, Ballet shoes                                                 ||             1.04 ||
+|| Sofie      || Ninja Turtles backpack                                                                  ||             0.35 ||
+|| Darryl     || Unicorn onesie, Small watering can, Mechanical keyboard                                 ||             2.16 ||
+|| Nathaniel  || Zebra Jumpy, Crayons                                                                    ||             1.39 ||
+|| Calvin     || Dungeons and Dragons 5th Edition Starter Set, Nintendo Switch, Horse riding helmet      ||              3.7 ||
+|| Luke       || Mechanical keyboard, Cyberpunk 2077                                                     ||             1.33 ||
+|| Adeline    || Toy train set, Dinosaur plushie                                                         ||              1.1 ||
+|| Myra       || Trick scooter                                                                           ||              3.2 ||
+|| Abigail    || LED light up sneakers                                                                   ||             0.25 ||
+|| Montgomery || Book about dinosaurs, Jaipur board game, Wall-mount diamond pickaxe                     ||             1.45 ||
+|| Luis       || 500 TikTok followers, Toy train set                                                     ||             0.89 ||
+|| Carl       || Wireless headphones                                                                     ||             0.54 ||
+|| Fletcher   || Nintendo Switch, Spiderman costume                                                      ||             0.48 ||
+|| Lenno      || Tablet computer, Doll stroller, LED light up sneakers                                   ||             2.78 ||
+|| Wyatt      || World of Warcraft: Shadowlands Collectors Edition, Book about dinosaurs, Unicorn onesie ||             0.87 ||
+|| Mario      || Football shoes                                                                          ||             0.69 ||
+|| Jodi       || Pink tricycle, Baby born doll                                                           ||              6.3 ||
+|| Kent       || Beyblade Burst spinner, Kitten plushie, Toy train set                                   ||             1.34 ||
+|| Derek      || Acrylic paint brush set, Remote controlled car, Toy kitchen set                         ||              4.8 ||
+|| Roger      || Wireless headphones, Baby brother, World of Warcraft: Shadowlands Collectors Edition    ||             4.26 ||
+|| Selena     || Baby born doll, Toy kitchen set                                                         ||              3.4 ||
+|| Beverly    || Acrylic paint brush set, Giraffe plushie, Baby Yoda plushie                             ||             0.63 ||
+|| Mathias    || Ken doll with real hair                                                                 ||             0.05 ||
+|| Niko       || Remote controlled bb8 droid                                                             ||              0.9 ||
+|| Julia      || LOL Dolls surprise egg                                                                  ||              0.1 ||
+\\============[]=========================================================================================[]==================//

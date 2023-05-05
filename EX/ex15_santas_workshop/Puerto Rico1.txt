@@ -1,0 +1,25 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Puerto Rico
+
+//=========[]===============================================================[]==================\\
+||  Name   ||                             Gifts                             || Total Weight(kg) ||
+|[=========[]===============================================================[]==================]|
+|| Tessa   || Baby brother                                                  ||             3.42 ||
+|| Kelly   || Horse riding helmet, Remote controlled car                    ||              4.6 ||
+|| Rose    || Book about dinosaurs, Doll stroller                           ||             2.35 ||
+|| Daniel  || PlayStation 5, Polar bear plushie                             ||              5.2 ||
+|| Leila   || Roller skates, Wall-mount diamond pickaxe, Polar bear plushie ||             2.56 ||
+|| Elena   || Ballet shoes, LOL Dolls surprise egg, Teddy bear              ||              0.4 ||
+|| April   || Horse riding helmet, VHS player                               ||              3.7 ||
+|| Nancy   || Wireless headphones, Harry Potter and the Philosopher's Stone ||             0.84 ||
+|| Harriet || Xbox Series X                                                 ||              4.5 ||
+|| Maxwell || LED light up sneakers, Color pencil set                       ||             0.35 ||
+|| Alan    || Frozen Elsa electric toothbrush, Book about dinosaurs         ||              0.7 ||
+|| Cory    || Giraffe plushie                                               ||             0.23 ||
+|| Adrian  || VHS player, Brunette Barbie doll                              ||             1.25 ||
+|| Greg    || Dinosaur plushie, Zebra Jumpy                                 ||             1.55 ||
+|| Brett   || Frozen Elsa electric toothbrush, Crayons, Basketball          ||              1.4 ||
+|| Jasper  || Crayons                                                       ||             0.05 ||
+|| Eli     || Mermaid barbie, Piggy bank                                    ||             0.35 ||
+\\=========[]===============================================================[]==================//

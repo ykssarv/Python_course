@@ -1,0 +1,32 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: South Africa
+
+//===========[]======================================================================================[]==================\\
+||   Name    ||                                        Gifts                                         || Total Weight(kg) ||
+|[===========[]======================================================================================[]==================]|
+|| Damian    || Indoor bowling set                                                                   ||              3.5 ||
+|| Veronica  || Carbon fiber road bike                                                               ||              6.9 ||
+|| Ella      || Roller skates, Wall-mount diamond pickaxe                                            ||             2.37 ||
+|| Earl      || Nintendo Switch, Indoor bowling set, Princess dress                                  ||             3.98 ||
+|| Howard    || Car carpet                                                                           ||              1.5 ||
+|| Franz     || Small watering can, Beyblade Burst spinner                                           ||             0.84 ||
+|| Paula     || Running shoes, Roller skates, Wireless headphones                                    ||              2.8 ||
+|| Gilbert   || Beyblade Burst spinner, Piggy bank                                                   ||              0.6 ||
+|| Eva       || Make your own slime kit                                                              ||             0.34 ||
+|| Sophie    || Xbox Series X, Acrylic paint brush set                                               ||              4.7 ||
+|| Catherine || Minecraft Diamond Armor Pyjama set, Pink fluffy pen                                  ||             0.49 ||
+|| Chelsea   || Raspberry Pi 4, World of Warcraft: Shadowlands Collectors Edition                    ||              0.4 ||
+|| Christine || World of Warcraft: Shadowlands Collectors Edition, Zebra Jumpy, Watercolor paint set ||             1.89 ||
+|| Ashley    || Polyhedral dice set, Make your own slime kit                                         ||             0.35 ||
+|| Charlie   || Digital camera, Xbox Series X                                                        ||             5.37 ||
+|| Danielle  || Pink fluffy pen, Book about dinosaurs                                                ||             0.31 ||
+|| Christian || Remote controlled bb8 droid, Indoor bowling set                                      ||              4.4 ||
+|| Robin     || Jaipur board game                                                                    ||              0.5 ||
+|| Anita     || Digital camera, Doll stroller, Minecraft Diamond Armor Pyjama set                    ||              3.4 ||
+|| Renee     || Toy truck                                                                            ||              0.3 ||
+|| Ronald    || Nerf rifle, Crayons, Dinosaur plushie                                                ||             0.56 ||
+|| Thomas    || Avocado, Swimming flippers, Mechanical keyboard                                      ||             2.37 ||
+|| Riley     || Spiderman costume                                                                    ||             0.28 ||
+|| Nicky     || Tablet computer                                                                      ||             0.43 ||
+\\===========[]======================================================================================[]==================//

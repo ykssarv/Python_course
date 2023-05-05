@@ -1,0 +1,31 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: United Kingdom
+
+//=========[]===================================================================================[]==================\\
+||  Name   ||                                       Gifts                                       || Total Weight(kg) ||
+|[=========[]===================================================================================[]==================]|
+|| Libby   || Zebra Jumpy, Princess dress, Lego death star                                      ||             3.62 ||
+|| Carissa || Baby Yoda plushie, Nintendo Switch, Football shoes                                ||             1.09 ||
+|| Armando || Nerf rifle, Remote controlled car                                                 ||              2.4 ||
+|| Ariel   || Basketball, Baby brother, LOL Dolls surprise egg                                  ||             4.42 ||
+|| Ollie   || Horse riding helmet, Frozen Elsa electric toothbrush, Lego death star             ||             4.95 ||
+|| Elliot  || Kitten plushie, Acrylic paint brush set, Harry Potter and the Philosopher's Stone ||             0.65 ||
+|| Dominik || Nerf rifle                                                                        ||              0.3 ||
+|| Vaughn  || Book about dinosaurs                                                              ||             0.25 ||
+|| Eden    || Gloomhaven board game                                                             ||             10.0 ||
+|| Eliza   || Running shoes, Wireless headphones, PlayStation 5                                 ||             6.13 ||
+|| Parker  || Doll stroller                                                                     ||              2.1 ||
+|| Eddie   || Zebra Jumpy, Skateboard                                                           ||             2.69 ||
+|| Sam     || Carbon fiber road bike, Small watering can, Fortnite t-shirt                      ||             7.54 ||
+|| Oscar   || Lego death star, Brunette Barbie doll, Teddy bear                                 ||              2.2 ||
+|| Wayne   || Minecraft Diamond Armor Pyjama set, Football shoes                                ||             1.12 ||
+|| Isaac   || Book about dinosaurs                                                              ||             0.25 ||
+|| Sara    || Fortnite t-shirt                                                                  ||              0.1 ||
+|| Donald  || 500 TikTok followers                                                              ||              0.0 ||
+|| Marvin  || Brunette Barbie doll, Mermaid barbie                                              ||              0.1 ||
+|| Gwen    || 500 TikTok followers                                                              ||              0.0 ||
+|| Martha  || Crayons                                                                           ||             0.05 ||
+|| Stacy   || Polyhedral dice set, 500 TikTok followers                                         ||             0.01 ||
+|| Billy   || 500 TikTok followers                                                              ||              0.0 ||
+\\=========[]===================================================================================[]==================//

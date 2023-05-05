@@ -1,0 +1,16 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Estonia
+
+//=========[]===========================================================================[]==================\\
+||  Name   ||                                   Gifts                                   || Total Weight(kg) ||
+|[=========[]===========================================================================[]==================]|
+|| Matilda || Toy kitchen set                                                           ||              2.5 ||
+|| Leia    || Gloomhaven board game                                                     ||             10.0 ||
+|| Sharon  || Swimming flippers                                                         ||              1.0 ||
+|| Isabel  || Baby brother                                                              ||             3.42 ||
+|| Kyle    || Fortnite t-shirt, Nintendo Switch                                         ||              0.3 ||
+|| Felix   || Book about dinosaurs                                                      ||             0.25 ||
+|| Annika  || Color pencil set, Harry Potter and the Philosopher's Stone, Doll stroller ||              2.5 ||
+|| Michael || Doll stroller, Fortnite t-shirt                                           ||              2.2 ||
+\\=========[]===========================================================================[]==================//

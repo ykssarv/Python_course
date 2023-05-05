@@ -1,0 +1,20 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: United States of America
+
+//===========[]==============================================[]==================\\
+||   Name    ||                    Gifts                     || Total Weight(kg) ||
+|[===========[]==============================================[]==================]|
+|| Maureen   || Bluetooth speaker                            ||             1.43 ||
+|| Kayleigh  || Football shoes, Indoor bowling set           ||             4.19 ||
+|| Ida       || Carbon fiber road bike                       ||              6.9 ||
+|| Courtney  || PlayStation 5                                ||              5.0 ||
+|| Hannah    || Frozen Elsa electric toothbrush              ||             0.45 ||
+|| Elizabeth || Toy kitchen set, Princess dress              ||             2.78 ||
+|| Meghan    || Clear Night Sky puzzle                       ||              1.5 ||
+|| Lucy      || Wall-mount diamond pickaxe                   ||             0.69 ||
+|| Juan      || Dungeons and Dragons 5th Edition Starter Set ||              1.0 ||
+|| Liam      || Baby Yoda plushie, Baby Yoda plushie         ||              0.4 ||
+|| Danni     || Color pencil set, Wireless headphones        ||             0.64 ||
+|| Morgan    || Pink fluffy pen, Nerf rifle                  ||             0.36 ||
+\\===========[]==============================================[]==================//

@@ -1,0 +1,33 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: United Kingdom
+
+//===========[]====================================================================================[]==================\\
+||   Name    ||                                       Gifts                                        || Total Weight(kg) ||
+|[===========[]====================================================================================[]==================]|
+|| Wayne     || Baby brother                                                                       ||             3.42 ||
+|| Isaac     || Remote controlled car                                                              ||              2.1 ||
+|| Sara      || Small watering can, Trick scooter                                                  ||             3.74 ||
+|| Orville   || Lego death star                                                                    ||              2.0 ||
+|| Loretta   || Frozen Elsa electric toothbrush, Running shoes, Minecraft Diamond Armor Pyjama set ||             1.47 ||
+|| Marcus    || Lego death star                                                                    ||              2.0 ||
+|| Marvin    || Pink tricycle                                                                      ||              5.4 ||
+|| Raphael   || Watercolor paint set, Wireless headphones, Briefcase of art supplies               ||             3.99 ||
+|| Emilia    || Mechanical keyboard                                                                ||              1.3 ||
+|| Martha    || Car carpet                                                                         ||              1.5 ||
+|| Stephanie || Wireless headphones, Lego Grogu                                                    ||             0.79 ||
+|| Anya      || Running shoes                                                                      ||             0.59 ||
+|| Stacy     || Wall-mount diamond pickaxe                                                         ||             0.69 ||
+|| Tanya     || Nintendo Switch, Frozen Olaf plush toy                                             ||             0.66 ||
+|| Taylor    || Frozen Olaf plush toy                                                              ||             0.46 ||
+|| Sylvia    || Tablet computer                                                                    ||             0.43 ||
+|| Alexandra || Briefcase of art supplies                                                          ||              3.2 ||
+|| Annabel   || Pink tricycle, Clear Night Sky puzzle                                              ||              6.9 ||
+|| Connor    || Magic: The Gathering Commander Legends booster box, Crayons, Unicorn onesie        ||             1.27 ||
+|| Charles   || Tablet computer, New phone, Basketball                                             ||             1.53 ||
+|| Oliver    || Remote controlled bb8 droid                                                        ||              0.9 ||
+|| Archie    || Nerf rifle, Magic: The Gathering Commander Legends booster box                     ||              1.2 ||
+|| Billy     || Magic: The Gathering Commander Legends booster box, Princess dress                 ||             1.18 ||
+|| Jay       || Brunette Barbie doll, Dinosaur plushie                                             ||             0.27 ||
+|| Theodore  || Spiderman costume, Minecraft Diamond Armor Pyjama set                              ||             0.71 ||
+\\===========[]====================================================================================[]==================//

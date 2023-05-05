@@ -1,0 +1,18 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Germany
+
+//=========[]=================================================================[]==================\\
+||  Name   ||                              Gifts                              || Total Weight(kg) ||
+|[=========[]=================================================================[]==================]|
+|| Dirk    || PlayStation 5                                                   ||              5.0 ||
+|| Sandra  || Toy truck                                                       ||              0.3 ||
+|| Lara    || LED light up sneakers, Watercolor paint set                     ||              0.5 ||
+|| Mollie  || Dungeons and Dragons 5th Edition Starter Set                    ||              1.0 ||
+|| Betty   || Beyblade Burst spinner                                          ||              0.3 ||
+|| Maggie  || Zebra Jumpy                                                     ||             1.34 ||
+|| Harley  || Briefcase of art supplies                                       ||              3.2 ||
+|| Omar    || Nintendo Switch                                                 ||              0.2 ||
+|| Ricky   || World of Warcraft: Shadowlands Collectors Edition, Ballet shoes ||             0.45 ||
+|| Matthew || Jaipur board game, Acrylic paint brush set, Running shoes       ||             1.29 ||
+\\=========[]=================================================================[]==================//

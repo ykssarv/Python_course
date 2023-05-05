@@ -1,0 +1,34 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: United States of America
+
+//===========[]==================================================================================[]==================\\
+||   Name    ||                                      Gifts                                       || Total Weight(kg) ||
+|[===========[]==================================================================================[]==================]|
+|| Caden     || New phone, Baby born doll, Car carpet                                            ||              2.6 ||
+|| Jess      || Carbon fiber road bike                                                           ||              6.9 ||
+|| Otto      || Harry Potter and the Philosopher's Stone, Dinosaur plushie, Xbox Series X        ||             5.01 ||
+|| Ernest    || Frozen Elsa electric toothbrush, Book about dinosaurs                            ||              0.7 ||
+|| Frankie   || Baby brother, Polyhedral dice set                                                ||             3.44 ||
+|| Addison   || Mechanical keyboard, Tablet computer                                             ||             1.73 ||
+|| Caitlin   || Lego Grogu, Tablet computer                                                      ||             0.68 ||
+|| Arianna   || Digital camera, Football shoes, Avocado                                          ||             1.63 ||
+|| Miriam    || PlayStation 5, Color pencil set, Crayons                                         ||             5.15 ||
+|| Holly     || Wireless headphones, Mechanical keyboard                                         ||             1.84 ||
+|| Olly      || Car carpet, Horse riding helmet, Jaipur board game                               ||              4.5 ||
+|| Fraser    || Roller skates, Giraffe plushie                                                   ||              1.9 ||
+|| Curtis    || Swimming flippers, Brunette Barbie doll                                          ||             1.05 ||
+|| Casey     || Digital camera                                                                   ||             0.87 ||
+|| Nicole    || World of Warcraft: Shadowlands Collectors Edition                                ||              0.3 ||
+|| Craig     || Nerf rifle, Pink fluffy pen                                                      ||             0.36 ||
+|| Shaun     || Spiderman costume, Toy train set, Giraffe plushie                                ||              1.4 ||
+|| Stella    || Dinosaur plushie, Car carpet, Magic: The Gathering Commander Legends booster box ||             2.62 ||
+|| Laura     || Roller skates, Indoor bowling set                                                ||             5.17 ||
+|| Michelle  || Bluetooth speaker                                                                ||             1.43 ||
+|| Sabrina   || New phone                                                                        ||              0.2 ||
+|| Kayleigh  || Watercolor paint set                                                             ||             0.25 ||
+|| Courtney  || Swimming goggles                                                                 ||             0.04 ||
+|| Elizabeth || Pink fluffy pen                                                                  ||             0.06 ||
+|| Liam      || LOL Dolls surprise egg                                                           ||              0.1 ||
+|| Harry     || Brunette Barbie doll                                                             ||             0.05 ||
+\\===========[]==================================================================================[]==================//

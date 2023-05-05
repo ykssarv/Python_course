@@ -1,0 +1,32 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Germany
+
+//===========[]==========================================================================================[]==================\\
+||   Name    ||                                          Gifts                                           || Total Weight(kg) ||
+|[===========[]==========================================================================================[]==================]|
+|| Keira     || LED light up sneakers, 7200 Riot Points gift card                                        ||             0.26 ||
+|| Quinn     || Small watering can                                                                       ||             0.54 ||
+|| Jaden     || Dungeons and Dragons 5th Edition Starter Set, New phone, Ninja Turtles backpack          ||             1.55 ||
+|| Toby      || Pink tricycle, Baby brother, Doll stroller                                               ||            10.93 ||
+|| Drew      || Giraffe plushie, Nerf rifle                                                              ||             0.53 ||
+|| Dillion   || Xbox Series X                                                                            ||              4.5 ||
+|| Nicholas  || Color pencil set, Ken doll with real hair                                                ||             0.15 ||
+|| Jimmy     || Cyberpunk 2077, Digital camera, Beyblade Burst spinner                                   ||              1.2 ||
+|| Charlotte || Toy kitchen set                                                                          ||              2.5 ||
+|| Hazel     || Polar bear plushie                                                                       ||              0.2 ||
+|| Georgia   || Tablet computer, Brunette Barbie doll, Toy dinosaur play set                             ||             0.63 ||
+|| Dennis    || Unicorn onesie, Magic: The Gathering Commander Legends booster box, Brunette Barbie doll ||             1.27 ||
+|| Herman    || Polar bear plushie                                                                       ||              0.2 ||
+|| Hans      || 7200 Riot Points gift card                                                               ||             0.01 ||
+|| Hugo      || 500 TikTok followers                                                                     ||              0.0 ||
+|| Irma      || Jaipur board game                                                                        ||              0.5 ||
+|| Estelle   || Beyblade Burst spinner, Roller skates                                                    ||             1.97 ||
+|| Rupert    || Doll stroller, Carbon fiber road bike                                                    ||              9.0 ||
+|| Dirk      || Gloomhaven board game                                                                    ||             10.0 ||
+|| Ramona    || Polyhedral dice set, Running shoes                                                       ||              0.6 ||
+|| Dale      || Giraffe plushie, Book about dinosaurs                                                    ||             0.48 ||
+|| Megan     || Roller skates, Princess dress, Lego Grogu                                                ||              2.2 ||
+|| Sandra    || Wireless headphones, Color pencil set                                                    ||             0.64 ||
+|| Ricky     || Ken doll with real hair                                                                  ||             0.05 ||
+\\===========[]==========================================================================================[]==================//

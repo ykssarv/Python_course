@@ -1,0 +1,25 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Sweden
+
+//===========[]================================================================================================================[]==================\\
+||   Name    ||                                                     Gifts                                                      || Total Weight(kg) ||
+|[===========[]================================================================================================================[]==================]|
+|| Stefanie  || Trick scooter                                                                                                  ||              3.2 ||
+|| Eugene    || VHS player                                                                                                     ||              1.2 ||
+|| Arnold    || Lego Grogu, Wireless headphones, Princess dress                                                                ||             1.07 ||
+|| Gerald    || Remote controlled car, Pink tricycle                                                                           ||              7.5 ||
+|| Gustav    || Unicorn onesie                                                                                                 ||             0.32 ||
+|| Esther    || Baby born doll                                                                                                 ||              0.9 ||
+|| Carley    || Dungeons and Dragons 5th Edition Starter Set, Fortnite t-shirt, Roller skates                                  ||             2.77 ||
+|| Gabrielle || Brunette Barbie doll, Dinosaur plushie                                                                         ||             0.27 ||
+|| Joel      || Dinosaur plushie, Wireless headphones, Bluetooth speaker                                                       ||             2.19 ||
+|| David     || Harry Potter and the Philosopher's Stone, Basketball, LED light up sneakers                                    ||             1.45 ||
+|| Jonathan  || Wall-mount diamond pickaxe, Pink fluffy pen                                                                    ||             0.76 ||
+|| Jeremy    || Magic: The Gathering Commander Legends booster box, Ballet shoes, Dungeons and Dragons 5th Edition Starter Set ||             2.05 ||
+|| Jenna     || Tablet computer                                                                                                ||             0.43 ||
+|| Marshall  || Gloomhaven board game, Clear Night Sky puzzle, Unicorn onesie                                                  ||            11.82 ||
+|| Laurence  || Princess dress, Fortnite t-shirt                                                                               ||             0.38 ||
+|| Stefan    || Roller skates                                                                                                  ||             1.67 ||
+|| Mel       || Lego Grogu                                                                                                     ||             0.25 ||
+\\===========[]================================================================================================================[]==================//

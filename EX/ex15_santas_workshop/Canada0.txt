@@ -1,0 +1,40 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Canada
+
+//==========[]==============================================================================================[]==================\\
+||   Name   ||                                            Gifts                                             || Total Weight(kg) ||
+|[==========[]==============================================================================================[]==================]|
+|| Lexie    || Mermaid barbie, Pink fluffy pen, World of Warcraft: Shadowlands Collectors Edition           ||             0.41 ||
+|| Alvin    || Swimming flippers                                                                            ||              1.0 ||
+|| Mason    || Toy truck, Beyblade Burst spinner                                                            ||              0.6 ||
+|| Hollie   || Acrylic paint brush set, Football shoes, Xbox Series X                                       ||             5.39 ||
+|| Denzel   || Dungeons and Dragons 5th Edition Starter Set, Clear Night Sky puzzle                         ||              2.5 ||
+|| Albert   || Small watering can                                                                           ||             0.54 ||
+|| Roy      || Toy dinosaur play set, Jaipur board game, Magic: The Gathering Commander Legends booster box ||             1.55 ||
+|| Jon      || Basketball, Acrylic paint brush set                                                          ||              1.1 ||
+|| Logan    || Indoor bowling set, Briefcase of art supplies, Teddy bear                                    ||             6.85 ||
+|| Rodney   || Dungeons and Dragons 5th Edition Starter Set, Raspberry Pi 4                                 ||              1.1 ||
+|| Lucas    || Lego death star, Digital camera, Unicorn onesie                                              ||             3.19 ||
+|| Angel    || Dinosaur plushie                                                                             ||             0.21 ||
+|| Gabbie   || Cyberpunk 2077                                                                               ||             0.03 ||
+|| Ariella  || VHS player, Swimming goggles                                                                 ||             1.25 ||
+|| Meredith || Fortnite t-shirt, Toy dinosaur play set, World of Warcraft: Shadowlands Collectors Edition   ||             0.55 ||
+|| Travis   || Toy truck                                                                                    ||              0.3 ||
+|| Jensen   || Indoor bowling set                                                                           ||              3.5 ||
+|| Ted      || Magic: The Gathering Commander Legends booster box                                           ||              0.9 ||
+|| Miles    || Lego Grogu, Indoor bowling set                                                               ||             3.75 ||
+|| Tristan  || Nerf rifle, Fortnite t-shirt                                                                 ||              0.4 ||
+|| Kylie    || Nerf rifle, World of Warcraft: Shadowlands Collectors Edition, Swimming goggles              ||             0.65 ||
+|| Allen    || Cyberpunk 2077, Ninja Turtles backpack                                                       ||             0.38 ||
+|| Tiffany  || Basketball                                                                                   ||              0.9 ||
+|| Connie   || Basketball, Beyblade Burst spinner                                                           ||              1.2 ||
+|| Gina     || Digital camera, Fortnite t-shirt, Baby born doll                                             ||             1.87 ||
+|| Mariah   || Swimming flippers, Unicorn onesie, Briefcase of art supplies                                 ||             4.52 ||
+|| Denise   || Lego death star, Brunette Barbie doll, Football shoes                                        ||             2.74 ||
+|| Kilian   || Kitten plushie                                                                               ||             0.15 ||
+|| Arthur   || Roller skates                                                                                ||             1.67 ||
+|| Sven     || Frozen Elsa electric toothbrush                                                              ||             0.45 ||
+|| Lars     || Beyblade Burst spinner                                                                       ||              0.3 ||
+|| Mariam   || Crayons                                                                                      ||             0.05 ||
+\\==========[]==============================================================================================[]==================//

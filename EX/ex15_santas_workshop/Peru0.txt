@@ -1,0 +1,40 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Peru
+
+//===========[]======================================================================================[]==================\\
+||   Name    ||                                        Gifts                                         || Total Weight(kg) ||
+|[===========[]======================================================================================[]==================]|
+|| Dylan     || Roller skates, Cyberpunk 2077                                                        ||              1.7 ||
+|| Peter     || LED light up sneakers                                                                ||             0.25 ||
+|| Reid      || Book about dinosaurs, Color pencil set, Skateboard                                   ||              1.7 ||
+|| Lesley    || Briefcase of art supplies                                                            ||              3.2 ||
+|| Skyler    || New phone, New phone                                                                 ||              0.4 ||
+|| Marc      || Baby Yoda plushie, Crayons, Mermaid barbie                                           ||              0.3 ||
+|| Tobias    || Football shoes, Magic: The Gathering Commander Legends booster box                   ||             1.59 ||
+|| Rylan     || Baby brother, Fortnite t-shirt                                                       ||             3.52 ||
+|| Shane     || Ken doll with real hair, Roller skates                                               ||             1.72 ||
+|| Max       || Lego death star                                                                      ||              2.0 ||
+|| Lewis     || Polar bear plushie, Zebra Jumpy, Bluetooth speaker                                   ||             2.97 ||
+|| Marcel    || PlayStation 5                                                                        ||              5.0 ||
+|| Gail      || Doll stroller, Harry Potter and the Philosopher's Stone, Spiderman costume           ||             2.68 ||
+|| Nora      || World of Warcraft: Shadowlands Collectors Edition                                    ||              0.3 ||
+|| Brooklyn  || Polyhedral dice set                                                                  ||             0.01 ||
+|| Francesca || PlayStation 5                                                                        ||              5.0 ||
+|| Arya      || 500 TikTok followers, Dinosaur plushie, Indoor bowling set                           ||             3.72 ||
+|| Annie     || Frozen Olaf plush toy, Color pencil set, Remote controlled bb8 droid                 ||             1.46 ||
+|| Arlo      || Running shoes                                                                        ||             0.59 ||
+|| Tate      || Dungeons and Dragons 5th Edition Starter Set, Digital camera, Ninja Turtles backpack ||             2.22 ||
+|| Perry     || LOL Dolls surprise egg, Bluetooth speaker                                            ||             1.53 ||
+|| Neil      || Tablet computer                                                                      ||             0.43 ||
+|| Hector    || Minecraft Diamond Armor Pyjama set, VHS player, Toy train set                        ||             2.52 ||
+|| Brendan   || Toy train set                                                                        ||             0.89 ||
+|| Leon      || Nintendo Switch, Beyblade Burst spinner                                              ||              0.5 ||
+|| Tim       || Running shoes, Giraffe plushie, Giraffe plushie                                      ||             1.05 ||
+|| Leonie    || Skateboard                                                                           ||             1.35 ||
+|| Heidi     || Raspberry Pi 4                                                                       ||              0.1 ||
+|| Rachel    || Piggy bank                                                                           ||              0.3 ||
+|| Tyler     || Toy train set                                                                        ||             0.89 ||
+|| Robbie    || Mermaid barbie                                                                       ||             0.05 ||
+|| Justin    || Crayons                                                                              ||             0.05 ||
+\\===========[]======================================================================================[]==================//

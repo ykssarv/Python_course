@@ -1,0 +1,31 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: South Africa
+
+//===========[]================================================================================[]==================\\
+||   Name    ||                                     Gifts                                      || Total Weight(kg) ||
+|[===========[]================================================================================[]==================]|
+|| Amelia    || Wall-mount diamond pickaxe, Magic: The Gathering Commander Legends booster box ||             1.59 ||
+|| Freddie   || Color pencil set, Toy train set, Brunette Barbie doll                          ||             1.04 ||
+|| Jordan    || Magic: The Gathering Commander Legends booster box                             ||              0.9 ||
+|| Alexis    || Running shoes                                                                  ||             0.59 ||
+|| Baylee    || Carbon fiber road bike                                                         ||              6.9 ||
+|| Harper    || Jaipur board game, Princess dress, Toy kitchen set                             ||             3.28 ||
+|| Lance     || Indoor bowling set                                                             ||              3.5 ||
+|| Gunnar    || Gloomhaven board game, Harry Potter and the Philosopher's Stone, Xbox Series X ||             14.8 ||
+|| Jackson   || Polar bear plushie, Cyberpunk 2077, Kitten plushie                             ||             0.38 ||
+|| Harvey    || Avocado, Harry Potter and the Philosopher's Stone, Dinosaur plushie            ||             0.58 ||
+|| Javier    || Toy kitchen set, Ken doll with real hair, Tablet computer                      ||             2.98 ||
+|| Simeon    || Jaipur board game, Harry Potter and the Philosopher's Stone, Spiderman costume ||             1.08 ||
+|| Astrid    || Ninja Turtles backpack, Tablet computer, VHS player                            ||             1.98 ||
+|| Dolly     || 500 TikTok followers, Princess dress, Book about dinosaurs                     ||             0.53 ||
+|| Josie     || Nerf rifle, Nerf rifle                                                         ||              0.6 ||
+|| Kevin     || Color pencil set, World of Warcraft: Shadowlands Collectors Edition            ||              0.4 ||
+|| Sidney    || Ken doll with real hair, Princess dress                                        ||             0.33 ||
+|| Damian    || Pink tricycle, New phone                                                       ||              5.6 ||
+|| Veronica  || Remote controlled car                                                          ||              2.1 ||
+|| Ella      || Tablet computer                                                                ||             0.43 ||
+|| Leo       || Lego Grogu                                                                     ||             0.25 ||
+|| Gilbert   || Polyhedral dice set                                                            ||             0.01 ||
+|| Catherine || Toy dinosaur play set                                                          ||             0.15 ||
+\\===========[]================================================================================[]==================//

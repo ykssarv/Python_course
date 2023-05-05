@@ -1,0 +1,41 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Puerto Rico
+
+//===========[]================================================================================[]==================\\
+||   Name    ||                                     Gifts                                      || Total Weight(kg) ||
+|[===========[]================================================================================[]==================]|
+|| Evelyn    || Wall-mount diamond pickaxe, 7200 Riot Points gift card, Avocado                ||             0.77 ||
+|| Edward    || Trick scooter, Baby born doll, Tablet computer                                 ||             4.53 ||
+|| Aubrey    || Toy dinosaur play set                                                          ||             0.15 ||
+|| Eleanor   || Spiderman costume, Polyhedral dice set                                         ||             0.29 ||
+|| Phoebe    || Clear Night Sky puzzle, Toy train set                                          ||             2.39 ||
+|| Chloe     || Wireless headphones                                                            ||             0.54 ||
+|| Brennan   || Pink tricycle                                                                  ||              5.4 ||
+|| Mark      || Baby brother, Lego death star, Raspberry Pi 4                                  ||             5.53 ||
+|| Josh      || Avocado, Running shoes                                                         ||             0.66 ||
+|| Evan      || Dungeons and Dragons 5th Edition Starter Set                                   ||              1.0 ||
+|| Levi      || Remote controlled bb8 droid, Ballet shoes, Avocado                             ||             1.12 ||
+|| Joaquin   || Polyhedral dice set                                                            ||             0.01 ||
+|| Benton    || VHS player, Raspberry Pi 4, Book about dinosaurs                               ||             1.55 ||
+|| Stan      || Running shoes, Color pencil set, Roller skates                                 ||             2.36 ||
+|| Milo      || Frozen Olaf plush toy                                                          ||             0.46 ||
+|| James     || Swimming goggles                                                               ||             0.04 ||
+|| Georgina  || Acrylic paint brush set                                                        ||              0.2 ||
+|| Natalie   || Fortnite t-shirt, Running shoes, Ballet shoes                                  ||             0.84 ||
+|| Archer    || Clear Night Sky puzzle                                                         ||              1.5 ||
+|| Fabian    || Jaipur board game, Clear Night Sky puzzle                                      ||              2.0 ||
+|| Ralph     || Indoor bowling set                                                             ||              3.5 ||
+|| Adele     || 7200 Riot Points gift card, Magic: The Gathering Commander Legends booster box ||             0.91 ||
+|| Philip    || Horse riding helmet, LED light up sneakers                                     ||             2.75 ||
+|| Dolores   || Polyhedral dice set, Briefcase of art supplies                                 ||             3.21 ||
+|| Yvonne    || Jaipur board game, Bluetooth speaker                                           ||             1.93 ||
+|| Karl      || Dinosaur plushie, Toy dinosaur play set                                        ||             0.36 ||
+|| Sebastian || Pink tricycle                                                                  ||              5.4 ||
+|| Emma      || Ken doll with real hair, Kitten plushie                                        ||              0.2 ||
+|| Casper    || Baby Yoda plushie                                                              ||              0.2 ||
+|| Rose      || Raspberry Pi 4                                                                 ||              0.1 ||
+|| Daniel    || Cyberpunk 2077                                                                 ||             0.03 ||
+|| April     || Polyhedral dice set                                                            ||             0.01 ||
+|| Nancy     || Polyhedral dice set                                                            ||             0.01 ||
+\\===========[]================================================================================[]==================//

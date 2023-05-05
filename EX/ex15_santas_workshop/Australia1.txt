@@ -1,0 +1,17 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Australia
+
+//=========[]===============================================[]==================\\
+||  Name   ||                     Gifts                     || Total Weight(kg) ||
+|[=========[]===============================================[]==================]|
+|| Niko    || VHS player, Horse riding helmet               ||              3.7 ||
+|| Elle    || New phone                                     ||              0.2 ||
+|| Helen   || Baby brother                                  ||             3.42 ||
+|| Anne    || Make your own slime kit                       ||             0.34 ||
+|| Erik    || Toy dinosaur play set, Beyblade Burst spinner ||             0.45 ||
+|| Julia   || New phone                                     ||              0.2 ||
+|| Douglas || Giraffe plushie, Football shoes               ||             0.92 ||
+|| Clyde   || Running shoes, Toy kitchen set, Basketball    ||             3.99 ||
+|| Gene    || 7200 Riot Points gift card, Baby Yoda plushie ||             0.21 ||
+\\=========[]===============================================[]==================//

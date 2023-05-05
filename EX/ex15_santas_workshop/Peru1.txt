@@ -1,0 +1,21 @@
+DELIVERY ORDER
+FROM: NORTH POLE CHRISTMAS CHEER INCORPORATED
+TO: Peru
+
+//=========[]=========================================================================================[]==================\\
+||  Name   ||                                          Gifts                                          || Total Weight(kg) ||
+|[=========[]=========================================================================================[]==================]|
+|| Alexa   || Clear Night Sky puzzle                                                                  ||              1.5 ||
+|| Rachel  || Toy kitchen set                                                                         ||              2.5 ||
+|| Tyler   || Gloomhaven board game, Polar bear plushie                                               ||             10.2 ||
+|| Kyla    || Carbon fiber road bike, Football shoes, Indoor bowling set                              ||            11.09 ||
+|| Callum  || Basketball, New phone                                                                   ||              1.1 ||
+|| Austin  || Carbon fiber road bike                                                                  ||              6.9 ||
+|| Justin  || Briefcase of art supplies                                                               ||              3.2 ||
+|| Lily    || Raspberry Pi 4, Unicorn onesie, Small watering can                                      ||             0.96 ||
+|| Vince   || Spiderman costume, Minecraft Diamond Armor Pyjama set                                   ||             0.71 ||
+|| William || Toy truck, Frozen Elsa electric toothbrush, Horse riding helmet                         ||             3.25 ||
+|| Adam    || Crayons                                                                                 ||             0.05 ||
+|| Ian     || Color pencil set, Digital camera, Tablet computer                                       ||              1.4 ||
+|| Bailey  || Magic: The Gathering Commander Legends booster box, Ninja Turtles backpack, Zebra Jumpy ||             2.59 ||
+\\=========[]=========================================================================================[]==================//
